@@ -1,0 +1,26 @@
+#main_container{
+    width: 970px;
+    margin: 0 auto; 
+}
+#container1{
+    width: 450px;
+    height: 1000px;
+    margin: 0 auto;
+    display:inline-block;
+    vertical-align: top;
+}
+#container2{
+    width: 400px;
+    height: 1000px;
+    margin: 0 auto;
+    display:inline-block;
+    vertical-align: top;
+    margin-left: 82px;
+}
+.col-sm-9{
+    margin-left: 10px;
+}
+#notes{
+    height: 100px;
+    overflow: auto;
+}
